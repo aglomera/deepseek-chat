@@ -1,0 +1,4 @@
+airllm
+transformers
+torch
+accelerate
